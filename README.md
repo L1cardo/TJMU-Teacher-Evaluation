@@ -1,8 +1,8 @@
 <h1 align="center">欢迎使用 TJMU-Teacher-Evaluation 👋</h1>
 
 ![python_vesion](https://img.shields.io/badge/Python-3.5%2B-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/L1cardo/TJMU-Teacher-Evaluation.svg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/AlbertAbdilim.svg?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Licardo/TJMU-Teacher-Evaluation.svg?style=social)
 [![weibo](https://img.shields.io/badge/微博-@ABD_R3yiM-red.svg)](https://www.weibo.com/ABD_R3yiM)
 
 > 华中科技大学同济医学院教师评教脚本
@@ -35,15 +35,15 @@ liuyi12138制作的是适用于主校区的情况，只适用于一门科目只�
 
 3. 下载 chromedriver 
 
-  以在[这里](http://npm.taobao.org/mirrors/chromedriver/)下载你的电脑系统对应的版本
+   以在[这里](http://npm.taobao.org/mirrors/chromedriver/)下载你的电脑系统对应的版本
   
-  ① Windows 用户下载以后，新建一个命名为 hromedriver 的文件夹，将解压的chromedriver.exe放进文件夹，再配置进path环境变量
+   ① Windows 用户下载以后，新建一个命名为 hromedriver 的文件夹，将解压的chromedriver.exe放进文件夹，再配置进path环境变量
   
-  ② Mac 用户强烈推荐使用 Homebrew 安装(你得要自己安装 Homebrew），Homebrew 下安装命令为
+   ② Mac 用户强烈推荐使用 Homebrew 安装(你得要自己安装 Homebrew），Homebrew 下安装命令为
      
-  ```brew install chromedriver```
+   ```brew install chromedriver```
     
-  ③ Linux用户，把下载好的文件放在 /usr/bin 目录下就可以了
+   ③ Linux用户，把下载好的文件放在 /usr/bin 目录下就可以了
 
 
 ## 配置
@@ -62,7 +62,9 @@ liuyi12138制作的是适用于主校区的情况，只适用于一门科目只�
 
 ```python3 evaluation.py```
 
-运行结束后，网页会停止，此时已经评教完第一页所有科目的第一个老师，此时修改上面的 ```TEACHER = 1``` 为 ```TEACHER = 2``` 后再运行，以此类推直至第一页的所有老师全部评教完
+运行结束后，网页会停止，此时已经评教完第一页所有科目的第一个老师，此时修改上面的 
+```TEACHER = 1``` 为 ```TEACHER = 2``` 后再运行，
+以此类推直至第一页的所有老师全部评教完
 
 ## 作者
 
@@ -71,9 +73,9 @@ liuyi12138制作的是适用于主校区的情况，只适用于一门科目只�
 * Twitter: [@AlbertAbdilim](https://twitter.com/AlbertAbdilim)
 * Github: [@L1cardo](https://github.com/L1cardo)
 
-## 🤝 Contributing
+## 🤝 贡献
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/L1cardo/TJMU-Teacher-Evaluation/issues).
+欢迎做出贡献，提出问题以及提出建议!<br />请查看 [issues 页面](https://github.com/L1cardo/TJMU-Teacher-Evaluation/issues).
 
 ## 希望支持
 
