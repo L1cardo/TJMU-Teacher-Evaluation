@@ -29,7 +29,7 @@ liuyi12138制作的是适用于主校区的情况，只适用于一门科目只�
 
 1. 首先你得要有python3，并且安装 selenium，安装命令为
 
- ```pip3 install selenium```
+   ```pip3 install selenium```
 
 2. 要有 Chrome 浏览器（必须是Chrome本身，不能是其他Chrome内核的浏览器）
 
