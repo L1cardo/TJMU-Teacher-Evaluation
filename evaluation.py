@@ -19,17 +19,17 @@ def login():
     print("\n 登陆成功!\n")
 
 
-def pingJiaoAll(): #遍历page
+def evaluationAll(): #遍历page
     pageNum = 1
     nextBtn = driver.find_element_by_class_name('buttonRight')
     while(nextBtn.get_attribute('style') == "cursor: pointer;"):
-        pingJiaoPage(pageNum)
+        evaluationPage(pageNum)
         nextBtn.click()
         pageNum += 1
         nextBtn = driver.find_element_by_class_name('buttonRight')
-    pingJiaoPage(pageNum)
+    evaluationPage(pageNum)
 
-def pingJiaoPage(pageNum): #获取page中课程列表
+def evaluationPage(pageNum): #获取page中课程列表
     try:
         time.sleep(0.3)
         items = driver.find_elements_by_xpath('//td[@class = "tableSM"]/div')
@@ -39,18 +39,18 @@ def pingJiaoPage(pageNum): #获取page中课程列表
             if(item.text == "评价" or item.text == "未评完"):
                 print(itemName + "开始评教")
                 itemId = item.get_attribute('onclick')[13:20]
-                pingJiao(itemId,pageNum)
+                evaluation(itemId,pageNum)
                 print(itemName + "评教已完成")
             else:
                 print(itemName + "评教已完成")
         print("\n")
     except:
-        pingJiaoPage(pageNum)
+        evaluationPage(pageNum)
     else:
         return
 
 
-def pingJiao(itemId,page): #对某课程进行评教
+def evaluation(itemId,page): #对某课程进行评教
     
     itemIdStr = "http://curriculum.hust.edu.cn/wspj/awspj.jsp?kcdm=" + str(itemId) + "&xnxq=20182&pjlc=2018201&num=" + str(TEACHER - 1) + "&pjlx=01"
     js='window.open( \"' + itemIdStr + '\")'
@@ -72,4 +72,4 @@ def pingJiao(itemId,page): #对某课程进行评教
 
 
 login()
-pingJiaoAll()
+evaluationAll()
