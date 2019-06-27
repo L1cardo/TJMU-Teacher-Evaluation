@@ -87,4 +87,4 @@ python3 evaluation.py
 
 如果这个项目帮助到你的话，一个Star ⭐️！
 
-如果你想更进一步支持的话，可以适当地进行[打赏](https://github.com/L1cardo/images/raw/master/TJMU-Teacher-Evaluation/alipay.jpg)
+如果你想更进一步支持的话，可以适当地进行[打赏](https://raw.githubusercontent.com/L1cardo/images/master/TJMU-Teacher-Evaluation/alipay.jpg)
