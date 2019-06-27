@@ -75,7 +75,7 @@ python3 evaluation.py
 
 * Twitter: [@AlbertAbdilim](https://twitter.com/AlbertAbdilim)
 * Github: [@L1cardo](https://github.com/L1cardo)
-* 微博:[@ABD_R3yiM]([https://www.weibo.com/ABD_R3yiM](https://www.weibo.com/ABD_R3yiM)
+* 微博:[@ABD_R3yiM](https://www.weibo.com/ABD_R3yiM)
 
 ## 🤝 贡献
 
