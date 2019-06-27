@@ -9,9 +9,9 @@
 
 ## 声明
 
-本项目改自[liuyi12138](https://github.com/liuyi12138/HustPingJiao)大佬的项目，再次感谢大佬的制作。主校区的同学移步至大佬的[项目]([https://github.com/liuyi12138/HustPingJiao](https://github.com/liuyi12138/HustPingJiao)
+本项目改自[liuyi12138](https://github.com/liuyi12138/HustPingJiao)大佬的项目，再次感谢大佬的制作。主校区的同学移步至大佬的[项目](https://github.com/liuyi12138/HustPingJiao)
 
-liuyi12138制作的是适用于主校区的情况，只适用于一门科目只有一个待评价老师的情况。但是在同济校区这边，一门课往往由多名老师（最高36个老师）授课，所以就不太好用。
+liuyi12138制作的是适用于主校区的情况，只适用于一门科目只有一个待评价老师的情况。但是在同济校区这边，一门课往往由多名老师（最高36个老师,所有科目加起来上百个老师，无力吐槽）授课，所以就不太好用。
 
 我自己修改了一些代码，对于同济的学生会好用一些
 
