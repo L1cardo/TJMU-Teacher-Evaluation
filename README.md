@@ -3,7 +3,7 @@
 </div>
 
 ![python_vesion](https://img.shields.io/badge/Python-3.5%2B-green.svg)![GitHub stars](https://img.shields.io/github/stars/L1cardo/TJMU-Teacher-Evaluation.svg?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/AlbertAbdilim.svg?label=Follow&style=social)
-[![weibo](https://img.shields.io/badge/微博-@ABD_R3yiM-red.svg)](https://www.weibo.com/ABD_R3yiM)
+[![weibo](https://img.shields.io/badge/微博-@ABD_R3yiM-red.svg)](https://www.weibo.com/1935602951)
 
 > 华中科技大学同济医学院教师评教脚本
 
@@ -85,6 +85,6 @@ python3 evaluation.py
 
 ## 希望支持
 
-如果这个项目帮助到你的话，一个Star ⭐️！
+如果这个项目帮助到你的话，给一个Star ⭐️！
 
 如果你想更进一步支持的话，可以适当地进行[打赏](https://raw.githubusercontent.com/L1cardo/images/master/TJMU-Teacher-Evaluation/alipay.jpg)
