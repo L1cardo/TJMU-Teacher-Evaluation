@@ -37,7 +37,7 @@ liuyi12138制作的是适用于主校区的情况，只适用于一门科目只�
 
 3. 下载 chromedriver 
    
-   以在[这里](http://npm.taobao.org/mirrors/chromedriver/)下载你的电脑系统对应的版本
+   可以在[这里](http://npm.taobao.org/mirrors/chromedriver/)下载你的电脑系统对应的版本
    
    ① Windows 用户下载以后，新建一个命名为 hromedriver 的文件夹，将解压的 chromedriver.exe放进文件夹，再配置进path环境变量 
    
@@ -75,7 +75,7 @@ python3 evaluation.py
 
 * Twitter: [@AlbertAbdilim](https://twitter.com/AlbertAbdilim)
 * Github: [@L1cardo](https://github.com/L1cardo)
-* 微博:[@ABD_R3yiM](https://www.weibo.com/ABD_R3yiM)
+* 微博:[@ABD_R3yiM](https://www.weibo.com/1935602951)
 
 ## 🤝 贡献
 
