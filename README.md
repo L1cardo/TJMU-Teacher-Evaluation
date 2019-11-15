@@ -5,7 +5,7 @@
 ![python_vesion](https://img.shields.io/badge/Python-3.5%2B-green.svg)
 ![GitHub stars](https://img.shields.io/github/stars/L1cardo/TJMU-Teacher-Evaluation.svg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/AlbertAbdilim.svg?label=Follow&style=social)
-[![weibo](https://img.shields.io/badge/微博-@ABD_R3yiM-red.svg)](https://www.weibo.com/1935602951)
+![![weibo](https://img.shields.io/badge/微博-@ABD_R3yiM-red.svg)](https://www.weibo.com/1935602951)
 
 > 华中科技大学同济医学院教师评教脚本
 
